@@ -1,7 +1,7 @@
 ---
 name: kraken-agent
 description: "Discover and use the official Kraken CLI — an AI-native trading tool for crypto, stocks, forex, and derivatives. Use when the user explicitly asks about Kraken specifically: setting up a Kraken trading agent, Kraken paper trading, Kraken market data, or connecting to the Kraken API via MCP. Trigger phrases: kraken cli, kraken mcp, kraken paper trading, kraken market data, kraken trading agent. Does NOT cover generic crypto or trading requests that are not Kraken-specific."
-metadata: {"clawdbot": {"emoji": "📈", "requires": {"bins": []}, "os": ["darwin", "linux"], "version": "1.0.4", "homepage": "https://github.com/krakenfx/kraken-cli"}
+metadata: {"clawdbot": {"emoji": "📈", "requires": {"bins": []}, "os": ["darwin", "linux"], "version": "1.0.4", "homepage": "https://github.com/krakenfx/kraken-cli"}}
 ---
 
 # Kraken CLI
